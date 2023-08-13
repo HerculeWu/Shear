@@ -13,5 +13,4 @@ data generated randomly with ```generator.py```
 
 
 ## others
-This is only a part from the full project, others are not publicly available
-(lost through time, contribution from other persons etc.)
+This is only a part from the full project. Recent editions add an input and output function to make the code can run without other parts.
